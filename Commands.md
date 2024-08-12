@@ -1,4 +1,4 @@
-# Команды DTB
+# Команды DTB (42)
 #### Информация
 /member_info /server_info /channel_info /role_info /role_members /roles
 ___
