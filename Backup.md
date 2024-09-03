@@ -10,21 +10,23 @@
 # {guild_id}.json
 {
     'channels': [
-        [  # text
+        # text
+        [
             {
              'category_id': Optional[int],
              'name': str,
              'nsfw': bool,
              'position': int,
              'slowmode_delay': int,
-             'topic': str,
+             'topic': Optional[str],
              'default_auto_archive_duration': int,
              'default_thread_slowmode_delay': int,
              'id': int
             },
         ],
-        
-        [  # voice
+
+        # voice
+        [
             {
              'bitrate': int,
              'category_id': Optional[int],
@@ -58,7 +60,7 @@
              'default_sort_order': Optional[int],
              'position': int,
              'slowmode_delay': int,
-             'topic': str,
+             'topic': Optional[str],
              'default_auto_archive_duration': int,
              'default_thread_slowmode_delay': int,
              'id': int
