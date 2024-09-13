@@ -3,7 +3,7 @@
 /member_info /server_info /channel_info /role_info /role_members /roles
 ___
 #### Инструменты
-/random /translate /short_url /preview /qrcode /imagine /send_dm
+/random /translate /preview /imagine /send_dm /scan
 ___
 #### Разное
 /curs /time_utc /avatar /banner /delete_all_channels /delete_all_roles /download_messages
