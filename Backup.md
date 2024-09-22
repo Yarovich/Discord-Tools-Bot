@@ -87,7 +87,7 @@
         {
          'color_value': int,
          'hoist': bool,
-         'mentionable': int,
+         'mentionable': bool,
          'name': str,
          'permission_value': int,
          'position': int,
