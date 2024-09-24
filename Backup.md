@@ -10,8 +10,7 @@
 # {guild_id}.json
 {
     'channels': [
-        # text
-        [
+        [  # text
             {
              'category_id': Optional[int],
              'name': str,
@@ -25,8 +24,7 @@
             },
         ],
 
-        # voice
-        [
+        [  # voice
             {
              'bitrate': int,
              'category_id': Optional[int],
