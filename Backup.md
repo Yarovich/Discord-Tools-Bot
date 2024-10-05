@@ -10,7 +10,7 @@
 # {guild_id}.json
 {
     'channels': [
-        [  # text
+        [  # text [0]
             {
              'category_id': Optional[int],
              'name': str,
@@ -24,7 +24,7 @@
             },
         ],
 
-        [  # voice
+        [  # voice [1]
             {
              'bitrate': int,
              'category_id': Optional[int],
@@ -39,7 +39,7 @@
             },
         ],
 
-        [  # category
+        [  # category [2]
             {
              'id': int,
              'name': str,
@@ -48,7 +48,7 @@
             },
         ],
 
-        [  # forums
+        [  # forums [3]
             {
              'category_id': Optional[int],
              'name': str,
@@ -65,7 +65,7 @@
             },
         ],
 
-        [  # stages
+        [  # stages [4]
             {
              'bitrate': int,
              'category_id': Optional[int],
