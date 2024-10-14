@@ -3,10 +3,10 @@
 /member_info /server_info /channel_info /role_info /role_members /roles
 ___
 #### Инструменты
-/random /translate /preview /imagine /send_dm /scan
+/random /translate /preview /imagine /send_dm /scan /ping
 ___
 #### Разное
-/curs /time_utc /avatar /banner /delete_channels /delete_roles /download_messages /ping
+/curs /time_utc /avatar /banner /delete_channels /delete_roles /download_messages
 ___
 #### Модерация
 /role /temp_role /clear /timeout /untimeout /timeouts_list /ban /unban /bans /move_all /slowmode
