@@ -1,4 +1,4 @@
-# Команды DTB (36)
+# Команды DTB (37)
 #### Информация
 /member_info /server_info /channel_info /role_info /role_members /roles
 ___
@@ -6,7 +6,7 @@ ___
 /random /translate /preview /imagine /send_dm /scan
 ___
 #### Разное
-/curs /time_utc /avatar /banner /delete_channels /delete_roles /download_messages
+/curs /time_utc /avatar /banner /delete_channels /delete_roles /download_messages /ping
 ___
 #### Модерация
 /role /temp_role /clear /timeout /untimeout /timeouts_list /ban /unban /bans /move_all /slowmode
